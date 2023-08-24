@@ -1,0 +1,11 @@
+<svg width="118" height="30" viewBox="0 0 118 30" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @font-face {
+      font-family: 'Biome';
+      src: url('path-to-biome-font.woff2') format('woff2');
+      font-weight: bold;
+      font-style: normal;
+    }
+  </style>
+  <text x="20" y="34" font-family="Biome, Arial, sans-serif" font-size="45" font-weight="bold" fill="white">QPT</text>
+</svg>
