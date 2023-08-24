@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.13806f7f.css",
-    "main.js": "/static/js/main.eb5017fc.js",
-    "static/media/ai.png": "/static/media/ai.aa60586ba1ba53762d94.png",
-    "static/media/possibility.png": "/static/media/possibility.525f13b61a2157d44de0.png",
-    "static/media/blog01.png": "/static/media/blog01.cefc0932eae0d33a0342.png",
-    "static/media/blog03.png": "/static/media/blog03.d922323861096f25274f.png",
-    "static/media/blog04.png": "/static/media/blog04.742c1357e7b6c11078e6.png",
-    "static/media/blog05.png": "/static/media/blog05.bfaa1c1e3851158e0e1f.png",
-    "static/media/blog02.png": "/static/media/blog02.ab0eb367561796e91532.png",
-    "static/media/people.png": "/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "index.html": "/index.html",
-    "static/media/logo.svg": "/static/media/logo.aab190e90dd95923998ea8791e4cdc94.svg",
-    "main.13806f7f.css.map": "/static/css/main.13806f7f.css.map",
-    "main.eb5017fc.js.map": "/static/js/main.eb5017fc.js.map"
+    "main.css": "/QPT/static/css/main.13806f7f.css",
+    "main.js": "/QPT/static/js/main.45b84d42.js",
+    "static/media/ai.png": "/QPT/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/QPT/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/QPT/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/QPT/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/QPT/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/QPT/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/QPT/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/QPT/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/QPT/index.html",
+    "static/media/logo.svg": "/QPT/static/media/logo.aab190e90dd95923998ea8791e4cdc94.svg",
+    "main.13806f7f.css.map": "/QPT/static/css/main.13806f7f.css.map",
+    "main.45b84d42.js.map": "/QPT/static/js/main.45b84d42.js.map"
   },
   "entrypoints": [
     "static/css/main.13806f7f.css",
-    "static/js/main.eb5017fc.js"
+    "static/js/main.45b84d42.js"
   ]
 }
